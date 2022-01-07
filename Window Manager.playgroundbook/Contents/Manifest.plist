@@ -13,7 +13,7 @@
 	<key>ImageReference</key>
 	<string>Icon.png</string>
 	<key>DeploymentTarget</key>
-	<string>ios10.0</string>
+	<string>ios15.0</string>
 	<key>Chapters</key>
 	<array>
 		<string>WindowManager.playgroundchapter</string>
